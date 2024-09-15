@@ -25,24 +25,3 @@ El `PasswordGenerator` es una aplicación Java para generar contraseñas aleator
     ```bash
     cd password-generator
     ```
-
-## Uso
-
-Para ejecutar el generador de contraseñas, compila y corre la clase principal `PasswordGenerator` con los parámetros deseados. 
-
-1. Compila el código:
-
-    ```bash
-    javac -d bin src/password/PasswordGenerator.java
-    ```
-
-2. Ejecuta el código:
-
-    ```bash
-    java -cp bin password.PasswordGenerator 5 8
-    ```
-
-   Aquí, `5` es el número de contraseñas a generar y `8` es la longitud de cada contraseña.
-
-## Ejemplo de Salida
-
