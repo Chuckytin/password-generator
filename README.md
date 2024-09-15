@@ -8,10 +8,6 @@ El `PasswordGenerator` es una aplicación Java para generar contraseñas aleator
 - Cada contraseña tiene una longitud configurable.
 - Las contraseñas incluyen dígitos (`0-9`), letras mayúsculas (`A-Z`) y letras minúsculas (`a-z`).
 
-## Requisitos
-
-- Java 8 o superior
-
 ## Instalación
 
 1. Clona este repositorio:
